@@ -1,0 +1,44 @@
+{
+  "id": "2976694",
+  "name": "iconfont",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1212289",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "1841762",
+      "name": "个人",
+      "font_class": "geren",
+      "unicode": "e680",
+      "unicode_decimal": 59008
+    },
+    {
+      "icon_id": "2030019",
+      "name": "退出",
+      "font_class": "h",
+      "unicode": "e819",
+      "unicode_decimal": 59417
+    },
+    {
+      "icon_id": "7171156",
+      "name": "文章管理",
+      "font_class": "wenzhangguanli",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "17546280",
+      "name": "评论",
+      "font_class": "pinglun",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    }
+  ]
+}
